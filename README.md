@@ -4,10 +4,9 @@
 - 🌱 I’m currently learning Typescript
 - ⚡ Fun fact: I teach drums on my free time!
 
-<div>
-  <img align="left" alt="Andrei's stats!" src="https://github-readme-stats.vercel.app/api?username=andreidimaano&show_icons=true&theme=solarized-light" />
-  <img align="left" alt="Andrei's stats!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreidimaano&layout=compact&theme=solarized-light" />
-</div>
+
+|<img align="left" alt="Andrei's stats!" src="https://github-readme-stats.vercel.app/api?username=andreidimaano&show_icons=true&theme=solarized-light" />|<img align="left" alt="Andrei's stats!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreidimaano&layout=compact&theme=solarized-light" />|
+
 <!--
 **andreidimaano/andreidimaano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

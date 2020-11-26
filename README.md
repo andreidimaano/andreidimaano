@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-<img align="left" alt="Andrei's stats!" src="https://github-readme-stats.vercel.app/api?username=andreidimaano&show_icons=true&hide_border=true" />
-<img align="left" alt="Andrei's stats!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreidimaano&layout=compact)" />
+
 
 
 <!--

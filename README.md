@@ -1,5 +1,8 @@
 ### Hi, I'm Andrei!👋
 
+- 🔭 I’m currently working on Discord Bots :D
+- 🌱 I’m currently learning Typescript
+- ⚡ Fun fact: I teach drums on my free time!
 
 <img align="left" alt="Andrei's stats!" src="https://github-readme-stats.vercel.app/api?username=andreidimaano&show_icons=true&theme=solarized-light" />
 <img align="left" alt="Andrei's stats!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreidimaano&layout=compact&theme=solarized-light" />

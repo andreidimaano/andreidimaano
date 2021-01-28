@@ -1,7 +1,7 @@
 ### Hi, I'm Andrei!👋
 
 - 🔭 I’m currently working on Discord Bots :D
-- 🌱 I’m currently learning Typescript, GraphQL, and PostgresQL
+- 🌱 I’m currently learning Typescript, GraphQL, and Databases
 - ⚡ Fun fact: I teach drums on my free time!
 
 <!--

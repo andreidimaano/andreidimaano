@@ -4,9 +4,10 @@
 - 🌱 I’m currently learning Typescript, GraphQL, and Databases
 - ⚡ Fun fact: I teach drums on my free time!
 
-<!--
-<img align="left" alt="Andrei's stats!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreidimaano&layout=compact&theme=solarized-light" />
--->
+[![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreidimaano)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" alt="Andrei's stats!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreidimaano&layout=compact" />
+
 
 <!--
 **andreidimaano/andreidimaano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

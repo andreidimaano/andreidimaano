@@ -1,8 +1,7 @@
 ### Hi, I'm Andrei!👋
 
-- 🔭 I’m currently working on Discord Bots :D
-- 🌱 I’m currently learning Typescript, GraphQL, and Databases
-- ⚡ Fun fact: I teach drums on my free time!
+- 🔭 I’m currently working on learning web development fundamentals
+- 🌱 I’m currently learning Typescript, Python, GraphQL, and Databases
 
 [![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreidimaano)](https://github.com/anuraghazra/github-readme-stats)
 

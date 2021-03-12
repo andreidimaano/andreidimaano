@@ -1,7 +1,7 @@
 ### Hi, I'm Andrei!👋
 
-- 🔭 I’m currently working on learning web development fundamentals
-- 🌱 I’m currently learning Typescript, Python, GraphQL, and Databases
+- 🔭 I’m currently working on solidifying web development fundamentals
+- 🌱 I’m currently learning python and relearning vanillaJS, DOM, HTML, CSS 
 
 <!--
 **andreidimaano/andreidimaano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

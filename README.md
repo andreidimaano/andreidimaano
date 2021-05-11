@@ -1,4 +1,4 @@
-Hi, I'm Andrei!👋 I’m currently working on solidifying web development fundamentals, learning python, and relearning vanillaJS, DOM, HTML, CSS. 
+Hi, I'm Andrei!👋 I'm currently swamped in my algorithms class so I a not coding everyday :) 
 
 <!--
 **andreidimaano/andreidimaano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-Hi, I'm Andrei!👋 I'm currently swamped in my algorithms class so I a not coding everyday :) 
+Hi, I'm Andrei!👋 I'm currently swamped in my algorithms class so I am no longer coding everyday :) 
 
 <!--
 **andreidimaano/andreidimaano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
